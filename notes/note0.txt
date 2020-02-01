@@ -1,0 +1,7 @@
+body - grill, roomba, mini-fridge
+legs - roomba, remote control car, skateboard
+tail - fire extinguisher, flashlight, tv remote
+head - vaccuum, tv, grill
+
+
+? ears - attennas (tv)
