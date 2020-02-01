@@ -12,7 +12,9 @@ if (hate_legs = object_index) { exit; }
 if (hate_tail = object_index) { exit; }
 
 if (part == "obj_body")
-{ obj_player.inventory[| 0] = object_index; }
+{
+obj_player.inventory[| 0] = object_index;
+}
 
 if (part == "obj_head")
 { obj_player.inventory[| 1] = object_index; }
