@@ -1,4 +1,6 @@
 inventory = ds_list_create();
+
+draw_set_font(font0);
 /*
 inventory[| 0] = obj_body;
 inventory[| 1] = obj_head;
