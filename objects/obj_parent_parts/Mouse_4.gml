@@ -13,17 +13,31 @@ if (hate_tail = object_index) { exit; }
 
 if (part == "obj_body")
 {
+	if !(obj_player.inventory[| 0] == -1)
+	{ instance_create_layer(x,y,"lyr_items",obj_player.inventory[| 0]); }
 obj_player.inventory[| 0] = object_index;
 }
 
 if (part == "obj_head")
-{ obj_player.inventory[| 1] = object_index; }
+{
+	if !(obj_player.inventory[| 1] == -1)
+	{ instance_create_layer(x,y,"lyr_items",obj_player.inventory[| 1]); }
+obj_player.inventory[| 1] = object_index;
+}
 
 if (part == "obj_legs")
-{ obj_player.inventory[| 2] = object_index; }
+{
+	if !(obj_player.inventory[| 2] == -1)
+	{ instance_create_layer(x,y,"lyr_items",obj_player.inventory[| 2]); }
+obj_player.inventory[| 2] = object_index;
+}
 
 if (part == "obj_tail")
-{ obj_player.inventory[| 3] = object_index; }
+{
+	if !(obj_player.inventory[| 3] == -1)
+	{ instance_create_layer(x,y,"lyr_items",obj_player.inventory[| 3]); }
+obj_player.inventory[| 3] = object_index;
+}
 
 instance_destroy();
 
