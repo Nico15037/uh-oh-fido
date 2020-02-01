@@ -1,8 +1,8 @@
 {
-    "id": "0750cd3a-9e5e-4c4a-a892-4cd2660f717d",
+    "id": "6de79e36-e311-4fe3-b5b7-4e7ae87d137a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_tail_tv_remote",
+    "name": "obj_legs_skateboard",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "8c1a0552-0eb7-4708-af59-cb59336b060d",
+    "spriteId": "e268ca9a-4b46-4685-9798-36079e5289b1",
     "visible": true
 }

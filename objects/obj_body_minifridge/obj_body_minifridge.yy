@@ -1,8 +1,8 @@
 {
-    "id": "0750cd3a-9e5e-4c4a-a892-4cd2660f717d",
+    "id": "f9730696-4fc6-4aef-932a-dd440d09e99d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_tail_tv_remote",
+    "name": "obj_body_minifridge",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "8c1a0552-0eb7-4708-af59-cb59336b060d",
+    "spriteId": "f7d22083-7354-452c-86a5-818b126e9f1b",
     "visible": true
 }

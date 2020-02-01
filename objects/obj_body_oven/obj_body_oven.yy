@@ -1,8 +1,8 @@
 {
-    "id": "0750cd3a-9e5e-4c4a-a892-4cd2660f717d",
+    "id": "a4de2b0f-7d9c-4a1f-8e16-fb89087a25a5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_tail_tv_remote",
+    "name": "obj_body_oven",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "8c1a0552-0eb7-4708-af59-cb59336b060d",
+    "spriteId": "663fddf4-728b-4487-bfd6-40580f1250f6",
     "visible": true
 }

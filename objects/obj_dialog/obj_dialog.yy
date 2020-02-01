@@ -1,14 +1,14 @@
 {
-    "id": "0750cd3a-9e5e-4c4a-a892-4cd2660f717d",
+    "id": "91fd2562-a346-43eb-ab12-796c7255fb55",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_tail_tv_remote",
+    "name": "obj_dialog",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "4cd8dc7c-0a57-4775-9fc1-9d6dedc97953",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "8c1a0552-0eb7-4708-af59-cb59336b060d",
+    "spriteId": "29b41cc5-8bf0-4b1e-bdda-5df4814439b2",
     "visible": true
 }

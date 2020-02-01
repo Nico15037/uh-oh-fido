@@ -1,8 +1,8 @@
 {
-    "id": "88459f94-691f-4c2d-9261-33b85252f325",
+    "id": "a6ea6a5e-1c11-4712-bf02-64f3b6599436",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_legs",
+    "name": "obj_tail_spatula",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "265e1052-7848-4337-aaa5-da5a4405bfbf",
+    "spriteId": "d2e5e6d5-7579-4e98-b5b9-c3d34a0106e1",
     "visible": true
 }

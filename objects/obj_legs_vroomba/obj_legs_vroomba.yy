@@ -1,8 +1,8 @@
 {
-    "id": "0750cd3a-9e5e-4c4a-a892-4cd2660f717d",
+    "id": "afd64fdc-9bbf-4601-b5c4-b7e7a25806a9",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_tail_tv_remote",
+    "name": "obj_legs_vroomba",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "8c1a0552-0eb7-4708-af59-cb59336b060d",
+    "spriteId": "a776d25d-64a9-4ebc-bf4d-303d5304144f",
     "visible": true
 }

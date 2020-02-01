@@ -1,14 +1,14 @@
 {
-    "id": "ea0e4fbc-8939-4a62-8917-a2951ef8a3c7",
+    "id": "c168215c-a922-4adb-b30f-5207b97c6787",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_head_grill",
+    "name": "obj_legs_rvcar",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "4cd8dc7c-0a57-4775-9fc1-9d6dedc97953",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "137fb70b-cd0c-48a4-9a8d-1a55d03cfef4",
     "visible": true
 }
