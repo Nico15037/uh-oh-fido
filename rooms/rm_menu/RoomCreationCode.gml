@@ -1,1 +1,1 @@
-room_goto(rm_pet_creation);
+//room_goto(rm_living_room);

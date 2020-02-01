@@ -2,7 +2,7 @@
     "id": "663fddf4-728b-4487-bfd6-40580f1250f6",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_oven",
+    "name": "spr_radio",
     "For3D": false,
     "HTile": false,
     "VTile": false,

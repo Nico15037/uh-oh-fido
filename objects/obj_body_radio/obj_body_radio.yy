@@ -2,7 +2,7 @@
     "id": "a4de2b0f-7d9c-4a1f-8e16-fb89087a25a5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_body_oven",
+    "name": "obj_body_radio",
     "eventList": [
         
     ],

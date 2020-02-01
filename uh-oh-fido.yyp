@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "21ddf396-ef64-40c1-8f88-5c721f3ba567",
+            "Value": {
+                "id": "6805e1fb-e683-4784-a7c2-aaeabf04fdad",
+                "resourcePath": "rooms\\rm_kitchen\\rm_kitchen.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "29b41cc5-8bf0-4b1e-bdda-5df4814439b2",
             "Value": {
                 "id": "5a18deed-438b-4cad-9d36-6e6de49bebdb",
@@ -186,7 +194,7 @@
             "Key": "663fddf4-728b-4487-bfd6-40580f1250f6",
             "Value": {
                 "id": "1d585abc-c25e-4407-aea7-78b0b34d6bea",
-                "resourcePath": "sprites\\spr_oven\\spr_oven.yy",
+                "resourcePath": "sprites\\spr_radio\\spr_radio.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -314,7 +322,7 @@
             "Key": "a4de2b0f-7d9c-4a1f-8e16-fb89087a25a5",
             "Value": {
                 "id": "5d1123db-9a76-469e-b372-998f19ece3a1",
-                "resourcePath": "objects\\obj_body_oven\\obj_body_oven.yy",
+                "resourcePath": "objects\\obj_body_radio\\obj_body_radio.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -396,6 +404,14 @@
                 "id": "506fb965-a7d0-46b4-b5d8-b1e20d8a69db",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cdd2b3b0-7de0-409e-8622-a39140ba79bc",
+            "Value": {
+                "id": "024bbd55-1f77-4c5c-898c-18bcd809b49d",
+                "resourcePath": "sprites\\spr_tv_back\\spr_tv_back.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
