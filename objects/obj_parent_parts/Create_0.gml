@@ -25,7 +25,7 @@ var rand_head = irandom(2);
 switch (rand_head)
 {
 case 0: hate_head = obj_head_grill; break;
-case 1: hate_head = obj_head_vaccuum; break;
+case 1: hate_head = obj_head_vacuum; break;
 case 2: hate_head = obj_head_tv; break;
 }
 
@@ -33,7 +33,7 @@ var rand_body = irandom(2);
 switch (rand_body)
 {
 case 0: hate_body = obj_head_grill; break;
-case 1: hate_body = obj_head_vaccuum; break;
+case 1: hate_body = obj_head_vacuum; break;
 case 2: hate_body = obj_head_tv; break;
 }
 
@@ -41,7 +41,7 @@ var rand_legs = irandom(2);
 switch (rand_legs)
 {
 case 0: hate_legs = obj_head_grill; break;
-case 1: hate_legs = obj_head_vaccuum; break;
+case 1: hate_legs = obj_head_vacuum; break;
 case 2: hate_legs = obj_head_tv; break;
 }
 
@@ -49,7 +49,7 @@ var rand_tail = irandom(2);
 switch (rand_tail)
 {
 case 0: hate_tail = obj_head_grill; break;
-case 1: hate_tail = obj_head_vaccuum; break;
+case 1: hate_tail = obj_head_vacuum; break;
 case 2: hate_tail = obj_head_tv; break;
 }
 

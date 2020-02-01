@@ -2,7 +2,7 @@
     "id": "f7d22083-7354-452c-86a5-818b126e9f1b",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite2",
+    "name": "spr_minifridge",
     "For3D": false,
     "HTile": false,
     "VTile": false,

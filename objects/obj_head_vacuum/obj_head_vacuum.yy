@@ -2,7 +2,7 @@
     "id": "8db06cd6-031a-4125-bd90-dcaea28c19c4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_head_vaccuum",
+    "name": "obj_head_vacuum",
     "eventList": [
         
     ],

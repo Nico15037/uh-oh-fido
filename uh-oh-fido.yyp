@@ -50,7 +50,7 @@
             "Key": "137fb70b-cd0c-48a4-9a8d-1a55d03cfef4",
             "Value": {
                 "id": "9f5e1748-3696-4d03-827a-ede12f11cdcd",
-                "resourcePath": "sprites\\sprite6\\sprite6.yy",
+                "resourcePath": "sprites\\spr_rvcar\\spr_rvcar.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -82,7 +82,7 @@
             "Key": "204159a9-086f-4749-b0e6-e987d76c06c1",
             "Value": {
                 "id": "69198ab5-2e0e-4e88-8a2e-06c5118ca707",
-                "resourcePath": "sprites\\sprite3\\sprite3.yy",
+                "resourcePath": "sprites\\spr_grill\\spr_grill.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -154,7 +154,7 @@
             "Key": "5db1b357-c6a7-45fc-af0c-05998b674258",
             "Value": {
                 "id": "3328c5f7-75fa-442c-8303-13ee1e7f3f3d",
-                "resourcePath": "sprites\\sprite10\\sprite10.yy",
+                "resourcePath": "sprites\\spr_toaster\\spr_toaster.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -170,7 +170,7 @@
             "Key": "663fddf4-728b-4487-bfd6-40580f1250f6",
             "Value": {
                 "id": "1d585abc-c25e-4407-aea7-78b0b34d6bea",
-                "resourcePath": "sprites\\sprite4\\sprite4.yy",
+                "resourcePath": "sprites\\spr_oven\\spr_oven.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -218,7 +218,7 @@
             "Key": "8c1a0552-0eb7-4708-af59-cb59336b060d",
             "Value": {
                 "id": "07cddbde-35be-45ca-a1a7-1e5a5c7b3107",
-                "resourcePath": "sprites\\sprite7\\sprite7.yy",
+                "resourcePath": "sprites\\spr_remote\\spr_remote.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -234,7 +234,7 @@
             "Key": "8db06cd6-031a-4125-bd90-dcaea28c19c4",
             "Value": {
                 "id": "fef10277-fe7f-48e3-b983-24dd7a3dfdb6",
-                "resourcePath": "objects\\obj_head_vaccuum\\obj_head_vaccuum.yy",
+                "resourcePath": "objects\\obj_head_vacuum\\obj_head_vacuum.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -282,7 +282,7 @@
             "Key": "a776d25d-64a9-4ebc-bf4d-303d5304144f",
             "Value": {
                 "id": "a179cff3-b470-4ca8-a3f0-ac3577c17cd3",
-                "resourcePath": "sprites\\sprite13\\sprite13.yy",
+                "resourcePath": "sprites\\spr_vroomba\\spr_vroomba.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -362,7 +362,7 @@
             "Key": "d2e5e6d5-7579-4e98-b5b9-c3d34a0106e1",
             "Value": {
                 "id": "39016995-eeb5-421e-ba93-c45d50c7fa13",
-                "resourcePath": "sprites\\sprite9\\sprite9.yy",
+                "resourcePath": "sprites\\spr_spatula\\spr_spatula.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -370,7 +370,7 @@
             "Key": "d4034baa-1789-46de-a8bb-74de3710639f",
             "Value": {
                 "id": "debf8bff-08d3-4f29-a959-8ec1979d85f6",
-                "resourcePath": "sprites\\sprite12\\sprite12.yy",
+                "resourcePath": "sprites\\spr_vacuum\\spr_vacuum.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -394,7 +394,7 @@
             "Key": "e268ca9a-4b46-4685-9798-36079e5289b1",
             "Value": {
                 "id": "c32e57b0-829b-41ed-8072-4a1946a2fbe8",
-                "resourcePath": "sprites\\sprite8\\sprite8.yy",
+                "resourcePath": "sprites\\spr_skateboard\\spr_skateboard.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -410,7 +410,7 @@
             "Key": "e645e669-6fb8-4425-b593-878bd95d31e2",
             "Value": {
                 "id": "95c6e901-9914-4dd7-84b2-4b76d3a35cca",
-                "resourcePath": "sprites\\sprite5\\sprite5.yy",
+                "resourcePath": "sprites\\spr_flashlight\\spr_flashlight.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -434,7 +434,7 @@
             "Key": "eeb1defb-f8a9-42d4-bd2b-bcf8ae95e7eb",
             "Value": {
                 "id": "063a205e-420a-4210-a625-155fcf9a6616",
-                "resourcePath": "sprites\\sprite11\\sprite11.yy",
+                "resourcePath": "sprites\\spr_tv\\spr_tv.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -466,7 +466,7 @@
             "Key": "f7d22083-7354-452c-86a5-818b126e9f1b",
             "Value": {
                 "id": "464af28a-8df3-42fa-94c7-f8d3a4ae5ecb",
-                "resourcePath": "sprites\\sprite2\\sprite2.yy",
+                "resourcePath": "sprites\\spr_minifridge\\spr_minifridge.yy",
                 "resourceType": "GMSprite"
             }
         },
