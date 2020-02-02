@@ -1,4 +1,10 @@
-if (head) and (body) and (legs) and (tail)
+if !(ready1) and (head) and (body) and (legs) and (tail)
+{
+alarm[0] = 1*room_speed;
+ready1 = true;
+}
+
+if (ready2)
 {
 
 image_alpha += 0.01;

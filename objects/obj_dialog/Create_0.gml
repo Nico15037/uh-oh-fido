@@ -11,6 +11,7 @@ text[1] = @"Your beloved dog of 14 years has passed away,
 and you have access to secret technology that can
 bring Fido back to you.";
 text[2] = @"You can only use the items in your house.
+When you have everything ready, press the spacebar.
 Good luck!";
 
 //Other
