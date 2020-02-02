@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "14f03a5e-ba01-4b9e-80be-8541534e3923",
+            "Value": {
+                "id": "0c5f3e6c-4ce3-4b0e-baae-c1c12dfcd043",
+                "resourcePath": "sprites\\spr_fido_icon\\spr_fido_icon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "152536bc-ec8d-414d-91f3-7745f52db5ba",
             "Value": {
                 "id": "7dd8b1b2-c0a0-475c-8a84-8e62f3a983b5",
