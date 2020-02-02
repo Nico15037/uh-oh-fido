@@ -13,7 +13,7 @@ outline = asset_get_index(part + "_outline");
 sound = asset_get_index("snd" + string_delete(objname,1,8));
 
 image = asset_get_index("spr" + string_delete(objname,1,8));
-
+show_debug_message(image);
 enum state
 {
 build,
@@ -27,6 +27,8 @@ else
 type = state.pickup;
 if (object_index == obj_head_tv) { sprite_index = spr_tv_back; }
 
+exception = false;
+
 if (object_index == obj_body_radio) or (object_index == obj_legs_skateboard)
-{ image_xscale = 0.5; image_yscale = 0.5; }
+{ image_xscale = 0.5; image_yscale = 0.5; exception = true; }
 }

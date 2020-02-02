@@ -2,7 +2,7 @@
 {
     "name": "rm_living_room",
     "id": "423d2979-8202-419a-9c7a-993a9a37a0d9",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
