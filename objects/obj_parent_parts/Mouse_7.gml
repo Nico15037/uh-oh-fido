@@ -4,7 +4,7 @@ if (place_meeting(x,y,outline))
 {
 
 if (part == "obj_body")
-{ obj_dialog.drawme = 4; }
+{ obj_dialog.drawme = 4; image_xscale = obj_head_outline.sprite_width; }
 
 if (part == "obj_head")
 { obj_dialog.drawme = 5; }
