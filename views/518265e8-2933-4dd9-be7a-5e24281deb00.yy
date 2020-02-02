@@ -12,7 +12,8 @@
         "d16a27da-78fb-4546-9618-4b5b36737e07",
         "791f1d86-0eb2-4e6b-b019-578aa607afda",
         "63fe6839-ecfd-4153-a555-a92842d4a30d",
-        "0f5d2907-134a-4d68-af2b-d7597061cae6"
+        "0f5d2907-134a-4d68-af2b-d7597061cae6",
+        "f3a493c9-29f5-4530-8614-b708b34c7bd8"
     ],
     "filterType": "GMObject",
     "folderName": "Parts+Outlines",
