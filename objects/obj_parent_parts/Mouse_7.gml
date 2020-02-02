@@ -36,5 +36,5 @@ y = outline.y;
 instance_create_layer(outline.x-40,outline.y,layer,object_index);
 }
 
-image_speed = 1.1*room_speed;
+image_speed = 1/room_speed;
 }

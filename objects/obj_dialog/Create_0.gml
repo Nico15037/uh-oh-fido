@@ -24,7 +24,7 @@ Where are my legs?";
 text[6] = "We're almost done! What should my tail be?";
 text[7] = @"Wow, I'm glad you fixed my body!
 You've also put my owner's heart back together!
-We are best buds forever"
+We are best buds forever!"
 text[8] = @"        .-" + "\"" + @"-.
        /|6 6|\
       {/(_0_)\}  You are pawsitively amazing!
