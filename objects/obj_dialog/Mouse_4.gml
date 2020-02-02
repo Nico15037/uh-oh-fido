@@ -15,4 +15,11 @@ else
 
 
 if (room == rm_pet_creation)
-{ if (obj_fido.image_alpha >= 1) and !(drawme >= 8) { drawme += 1; } }
+{
+if (obj_fido.image_alpha >= 1) and !(drawme >= 8)
+{
+instance_destroy(obj_inventory);
+image_yscale = 1.23;
+drawme += 1;
+}
+}
