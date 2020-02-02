@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "obj_fido",
     "eventList": [
-        
+        {
+            "id": "cc39d603-d9b9-4fea-9a44-05bad45c12b8",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "ff60562f-5543-4191-bbde-cb8cc8fa9bc2"
+        },
+        {
+            "id": "29406952-df08-47e4-96af-45142b78742b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "ff60562f-5543-4191-bbde-cb8cc8fa9bc2"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

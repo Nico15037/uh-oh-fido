@@ -6,3 +6,5 @@ if (x == 307) { image_index = 2; legs = true; }
 if (x == 417) { image_index = 3; tail = true; }
 
 sprite = -1;
+
+scale = 1;

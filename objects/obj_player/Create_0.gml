@@ -1,3 +1,5 @@
+randomize();
+
 inventory = ds_list_create();
 
 inventory[| 0] = -1;
@@ -26,7 +28,7 @@ case 2: hate_body = obj_body_radio; break;
 var rand_legs = irandom(2);
 switch (rand_legs)
 {
-case 0: hate_legs = obj_legs_rvcar; break;
+case 0: hate_legs = obj_legs_rccar; break;
 case 1: hate_legs = obj_legs_skateboard; break;
 case 2: hate_legs = obj_legs_vroomba; break;
 }

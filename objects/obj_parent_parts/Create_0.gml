@@ -29,6 +29,6 @@ if (object_index == obj_head_tv) { sprite_index = spr_tv_back; }
 
 exception = false;
 
-if (object_index == obj_body_radio) or (object_index == obj_legs_skateboard)
+if (object_index == obj_body_radio) or (object_index == obj_legs_skateboard) or (object_index == obj_tail_flashlight)
 { image_xscale = 0.5; image_yscale = 0.5; exception = true; }
 }
