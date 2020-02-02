@@ -1,1 +1,1 @@
-//room_goto(rm_living_room);
+audio_play_sound(snd_title_screen,10,true);
